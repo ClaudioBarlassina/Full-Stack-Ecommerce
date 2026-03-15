@@ -1,0 +1,146 @@
+.navbar {
+  height: 60px;
+  padding: 0 1rem;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgb(239, 240, 241);
+}
+
+.navbar input{
+ flex: 1;
+  height: 22px;
+  border-radius: 50px;
+  border: 1px solid gray;
+  max-width: 300px;
+  min-width: 130px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+.actions button {
+  margin-left: 0.5rem;
+  font-size: 1.2rem;
+  background: none;
+  border: none;
+}
+
+.content {
+  padding: 1rem;
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 260px;
+  height: 100vh;
+  background: #fff;
+  box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  z-index: 1000;
+
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+}
+
+.cart {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 320px;
+  height: 100vh;
+  background: #fafafa;
+  box-shadow: -2px 0 10px rgba(0,0,0,0.15);
+  padding: 1rem;
+  z-index: 1100;
+  color: black;
+
+  display: flex;
+  flex-direction: column;
+
+  box-sizing: border-box;   /* 🔥 CLAVE */
+
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+}
+.open {
+  transform: translateX(0);
+}
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 900;
+}
+
+.overlayOpen {
+  opacity: 1;
+  pointer-events: auto;
+}
+.cartContent {
+  flex: 1;
+  overflow-y: auto;
+  margin: 10px 0;
+}
+
+.cartFooter {
+  flex-shrink: 0;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+  background: #fafafa;
+}
+
+.totalRow {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.cartButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.btnPrimary {
+  width: 100%;
+  background: black;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.btnPrimary:hover {
+  opacity: 0.85;
+}
+
+.btnSecondary {
+  width: 100%;
+  background: #e5e5e5;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.btnSecondary:hover {
+  background: #d6d6d6;
+}

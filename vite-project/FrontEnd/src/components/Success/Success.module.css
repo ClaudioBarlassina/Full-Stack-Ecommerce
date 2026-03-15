@@ -1,0 +1,29 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+}
+
+/* h1,
+h2,
+h3 {
+  margin: 0.5rem 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.25rem 0;
+} */
+.productItem {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}

@@ -1,0 +1,35 @@
+.card {
+  background: rgba(255, 255, 255, 0.685);
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid #f3f3f500;
+  width: auto;
+  max-width: 100%;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.filtersContainer {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  flex-wrap: wrap; /* 🔥 importante para responsive */
+}
+
+.selectGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;          /* 🔥 que ocupen el espacio */
+  min-width: 180px; /* 🔥 evita que se achiquen demasiado */
+}
+
+select {
+  height: 35px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  padding: 0 8px;
+  width: 100%; /* 🔥 clave */
+}

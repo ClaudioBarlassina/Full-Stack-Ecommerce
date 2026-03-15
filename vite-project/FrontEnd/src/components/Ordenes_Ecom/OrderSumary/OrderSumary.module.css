@@ -1,0 +1,77 @@
+.conteiner_Orden {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #ffffff6b;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.conteiner_Orden h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+
+.conteiner_Orden_item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+/* ============================= */
+/* TOTAL */
+/* ============================= */
+
+.tabla_orden_final {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 20px 15px;
+  font-size: 18px;
+  font-weight: bold;
+  border-top: 2px solid #000;
+  margin-top: 15px;
+}
+
+/* ============================= */
+/* BOTONES */
+/* ============================= */
+
+.button_order {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.button_order button {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.button_order button:first-child {
+  background: #000;
+  color: #fff;
+}
+
+.button_order button:first-child:hover {
+  background: #333;
+}
+
+.button_order button:last-child {
+  background: #f5f5f5;
+}
+
+.button_order button:last-child:hover {
+  background: #ddd;
+}

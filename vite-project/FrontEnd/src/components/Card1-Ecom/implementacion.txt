@@ -1,0 +1,9 @@
+<Card
+maxw={150}
+  image={image}
+  title="Hamburgesa tipo MAC"
+  price="$13.500"
+  action={<button style={{height:35, borderRadius:15,  }} >Agregar al carrito</button>}
+>
+  <small>Envío gratis</small>
+</Card>

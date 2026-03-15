@@ -1,0 +1,1024 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Auriculares Bluetooth WH-1000XM5",
+      "brand": "Sony",
+      "price": 420000,
+      "stock": 12,
+      "category": "audio",
+      "description": "Auriculares inalámbricos con cancelación de ruido líder en el mercado.",
+      "features": [
+        "Bluetooth 5.2",
+        "Noise Cancelling",
+        "30h batería"
+      ],
+      "rating": 4.8,
+      "image": "https://images.fravega.com/f300/fea6c6c2383882b1d80383293e01f914.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Auriculares AirPods Pro 2",
+      "brand": "Apple",
+      "price": 480000,
+      "stock": 8,
+      "category": "audio",
+      "description": "Auriculares true wireless con cancelación activa y audio espacial.",
+      "features": [
+        "ANC",
+        "Audio espacial",
+        "MagSafe"
+      ],
+      "rating": 4.7,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_769871-MLA54963424006_042023-O.webp"
+    },
+    {
+      "id": 3,
+      "name": "Parlante Bluetooth Flip 6",
+      "brand": "JBL",
+      "price": 210000,
+      "stock": 20,
+      "category": "audio",
+      "description": "Parlante portátil resistente al agua con sonido potente.",
+      "features": [
+        "IP67",
+        "12h batería",
+        "Bluetooth"
+      ],
+      "rating": 4.6,
+      "image": "https://buya.com.ar/wp-content/uploads/2025/05/JBL-Flip-6-Portable-Bluetooth-Speaker_7.png"
+    },
+    {
+      "id": 4,
+      "name": "Smart TV 50'' 4K UHD",
+      "brand": "Samsung",
+      "price": 950000,
+      "stock": 6,
+      "category": "tv",
+      "description": "Televisor 4K con sistema operativo Tizen.",
+      "features": [
+        "4K UHD",
+        "HDR",
+        "Smart TV"
+      ],
+      "rating": 4.5,
+      "image": "https://images.fravega.com/f1000/d7ca24bf5639a7db78c31aa9fa963be8.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smart TV 55'' OLED",
+      "brand": "LG",
+      "price": 1450000,
+      "stock": 4,
+      "category": "tv",
+      "description": "Televisor OLED con negros perfectos y Dolby Vision.",
+      "features": [
+        "OLED",
+        "Dolby Vision",
+        "webOS"
+      ],
+      "rating": 4.9,
+      "image": "https://images.bidcom.com.ar/resize?src=https://static.bidcom.com.ar/publicacionesML/productos/PARLN021/1000x1000-PARLN021.jpg&h=400&q=100"
+    },
+    {
+      "id": 6,
+      "name": "Notebook Ryzen 5 5600H",
+      "brand": "Lenovo",
+      "price": 1100000,
+      "stock": 7,
+      "category": "computacion",
+      "description": "Notebook ideal para trabajo y gaming liviano.",
+      "features": [
+        "Ryzen 5",
+        "16GB RAM",
+        "SSD 512GB"
+      ],
+      "rating": 4.6,
+      "image": "https://philco.com.ar/media/catalog/product/cache/c8f6a96bef9e9f64cd4973587df2520f/n/1/n14p4020_7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Notebook Core i7 12th Gen",
+      "brand": "HP",
+      "price": 1550000,
+      "stock": 5,
+      "category": "computacion",
+      "description": "Alto rendimiento para tareas profesionales.",
+      "features": [
+        "Intel i7",
+        "32GB RAM",
+        "SSD 1TB"
+      ],
+      "rating": 4.7,
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/0bbfa398ec4862f2d1cd1dfb238ddd836588f8efc365d8524141b66763b8a68f169554.webp"
+    },
+    {
+      "id": 8,
+      "name": "Mouse Gamer G502",
+      "brand": "Logitech",
+      "price": 85000,
+      "stock": 25,
+      "category": "perifericos",
+      "description": "Mouse gamer con sensor de alta precisión.",
+      "features": [
+        "16000 DPI",
+        "RGB",
+        "Pesas ajustables"
+      ],
+      "rating": 4.8,
+      "image": "https://www.beststore.cl/252556-large_default/Raton-inalambrico-para-juegos-Logitech-G502-X-Lightspeed-1000DPI-24G-KB6141.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Teclado Mecánico Alloy FPS",
+      "brand": "HyperX",
+      "price": 140000,
+      "stock": 18,
+      "category": "perifericos",
+      "description": "Teclado mecánico compacto con switches Cherry MX.",
+      "features": [
+        "Cherry MX",
+        "RGB",
+        "USB desmontable"
+      ],
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPfWSWwkl_ltl2gP3AVgGb3KTa2JZJMVcCA&s"
+    },
+    {
+      "id": 10,
+      "name": "Monitor 27'' 144Hz",
+      "brand": "ASUS",
+      "price": 520000,
+      "stock": 10,
+      "category": "monitores",
+      "description": "Monitor gamer Full HD con alta tasa de refresco.",
+      "features": [
+        "144Hz",
+        "1ms",
+        "IPS"
+      ],
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-VhCp5dBgdcfSwDiZDi_FDpjHSzlMZ7_rA&s"
+    },
+    {
+      "id": 11,
+      "name": "Placa de Video RTX 3060",
+      "brand": "NVIDIA",
+      "price": 1250000,
+      "stock": 3,
+      "category": "hardware",
+      "description": "GPU potente para gaming y creación de contenido.",
+      "features": [
+        "12GB GDDR6",
+        "Ray Tracing",
+        "DLSS"
+      ],
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0c72cyco5AC6JrDThkXWHWzy7EygC2nBB7A&s"
+    },
+    {
+      "id": 12,
+      "name": "Placa de Video RX 6700 XT",
+      "brand": "AMD",
+      "price": 1150000,
+      "stock": 4,
+      "category": "hardware",
+      "description": "Excelente rendimiento en 1440p.",
+      "features": [
+        "12GB GDDR6",
+        "FSR",
+        "RDNA 2"
+      ],
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuud0lGx8J00NZMp8p8NFE8vHEkFAsxtDKgA&s"
+    },
+    {
+      "id": 13,
+      "name": "Fuente 750W 80+ Gold",
+      "brand": "Corsair",
+      "price": 230000,
+      "stock": 9,
+      "category": "hardware",
+      "description": "Fuente de alimentación eficiente y silenciosa.",
+      "features": [
+        "80+ Gold",
+        "Modular",
+        "Protecciones múltiples"
+      ],
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJ1jz6Mbe3As_NcNz7ySjqwShmqeIotv2ZA&s"
+    },
+    {
+      "id": 14,
+      "name": "Disco SSD 1TB NVMe",
+      "brand": "Samsung",
+      "price": 280000,
+      "stock": 15,
+      "category": "almacenamiento",
+      "description": "SSD ultra rápido para sistemas exigentes.",
+      "features": [
+        "NVMe",
+        "7000MB/s",
+        "PCIe 4.0"
+      ],
+      "rating": 4.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUR1mJDp76G7uz4qQGOGXwQTO2Wh-clDo5ZA&s"
+    },
+    {
+      "id": 15,
+      "name": "Disco Externo 2TB",
+      "brand": "Seagate",
+      "price": 190000,
+      "stock": 14,
+      "category": "almacenamiento",
+      "description": "Almacenamiento portátil USB 3.0.",
+      "features": [
+        "2TB",
+        "USB 3.0",
+        "Plug & Play"
+      ],
+      "rating": 4.5,
+      "image": "https://placehold.co/300x300/e5e7eb/555555?text=Producto"
+    },
+    {
+      "id": 16,
+      "name": "Smartphone Galaxy S23",
+      "brand": "Samsung",
+      "price": 1350000,
+      "stock": 6,
+      "category": "telefonia",
+      "description": "Smartphone premium con cámara avanzada.",
+      "features": [
+        "AMOLED",
+        "5G",
+        "128GB"
+      ],
+      "rating": 4.8,
+      "image": "https://placehold.co/300x300/e5e7eb/555555?text=Producto"
+    },
+    {
+      "id": 17,
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "price": 1550000,
+      "stock": 5,
+      "category": "telefonia",
+      "description": "Rendimiento fluido y excelente cámara.",
+      "features": [
+        "iOS",
+        "Face ID",
+        "128GB"
+      ],
+      "rating": 4.7,
+      "image": "https://placehold.co/300x300/e5e7eb/555555?text=Producto"
+    },
+    {
+      "id": 18,
+      "name": "Cargador Rápido 65W",
+      "brand": "Anker",
+      "price": 75000,
+      "stock": 30,
+      "category": "accesorios",
+      "description": "Carga rápida para múltiples dispositivos.",
+      "features": [
+        "USB-C",
+        "65W",
+        "Compacto"
+      ],
+      "rating": 4.6,
+      "image": "https://placehold.co/300x300/e5e7eb/555555?text=Producto"
+    },
+    {
+      "id": 19,
+      "name": "Power Bank 20000mAh",
+      "brand": "Xiaomi",
+      "price": 95000,
+      "stock": 22,
+      "category": "accesorios",
+      "description": "Batería portátil de alta capacidad.",
+      "features": [
+        "20000mAh",
+        "Carga rápida",
+        "USB-C"
+      ],
+      "rating": 4.5,
+      "image": "https://placehold.co/300x300/e5e7eb/555555?text=Producto"
+    },
+    {
+      "id": 20,
+      "name": "Router WiFi 6",
+      "brand": "TP-Link",
+      "price": 180000,
+      "stock": 11,
+      "category": "redes",
+      "description": "Router de alta velocidad y estabilidad.",
+      "features": [
+        "WiFi 6",
+        "Dual Band",
+        "Gigabit"
+      ],
+      "rating": 4.6,
+      "image": "https://placehold.co/300x300/e5e7eb/555555?text=Producto"
+    },
+    {
+      "id": 21,
+      "name": "Smartwatch Amazfit GTS 4",
+      "brand": "Amazfit",
+      "price": 320000,
+      "stock": 14,
+      "category": "accesorios",
+      "description": "Reloj inteligente con GPS y múltiples modos deportivos.",
+      "features": [
+        "AMOLED",
+        "GPS",
+        "7 días batería"
+      ],
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 22,
+      "name": "Cámara Mirrorless EOS M50",
+      "brand": "Canon",
+      "price": 1350000,
+      "stock": 3,
+      "category": "fotografia",
+      "description": "Cámara mirrorless compacta ideal para creadores de contenido.",
+      "features": [
+        "24MP",
+        "4K",
+        "WiFi"
+      ],
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 23,
+      "name": "Cámara Mirrorless Alpha a6400",
+      "brand": "Sony",
+      "price": 1580000,
+      "stock": 2,
+      "category": "fotografia",
+      "description": "Cámara profesional con enfoque automático rápido.",
+      "features": [
+        "24MP",
+        "4K",
+        "Eye AF"
+      ],
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 24,
+      "name": "Drone Mini 2 SE",
+      "brand": "DJI",
+      "price": 920000,
+      "stock": 4,
+      "category": "drones",
+      "description": "Drone liviano con cámara 2.7K y estabilización.",
+      "features": [
+        "2.7K",
+        "GPS",
+        "31 min vuelo"
+      ],
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 25,
+      "name": "Drone Air 2S",
+      "brand": "DJI",
+      "price": 1850000,
+      "stock": 2,
+      "category": "drones",
+      "description": "Drone profesional con sensor de 1 pulgada.",
+      "features": [
+        "5.4K",
+        "MasterShots",
+        "31 min vuelo"
+      ],
+      "rating": 4.9,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 26,
+      "name": "Parlante Smart Echo Dot 5",
+      "brand": "Amazon",
+      "price": 110000,
+      "stock": 20,
+      "category": "audio",
+      "description": "Parlante inteligente con Alexa integrada.",
+      "features": [
+        "Alexa",
+        "WiFi",
+        "Bluetooth"
+      ],
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 27,
+      "name": "Parlante Smart Nest Mini",
+      "brand": "Google",
+      "price": 105000,
+      "stock": 18,
+      "category": "audio",
+      "description": "Parlante inteligente con Google Assistant.",
+      "features": [
+        "Google Assistant",
+        "WiFi",
+        "Bluetooth"
+      ],
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 28,
+      "name": "Kit Teclado + Mouse Inalámbrico",
+      "brand": "Logitech",
+      "price": 98000,
+      "stock": 22,
+      "category": "perifericos",
+      "description": "Combo inalámbrico ideal para oficina.",
+      "features": [
+        "2.4GHz",
+        "Bajo consumo",
+        "Plug & Play"
+      ],
+      "rating": 4.4,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 29,
+      "name": "Monitor Curvo 34'' UltraWide",
+      "brand": "Samsung",
+      "price": 1450000,
+      "stock": 3,
+      "category": "monitores",
+      "description": "Monitor ultrawide para multitarea y productividad.",
+      "features": [
+        "34''",
+        "UltraWide",
+        "144Hz"
+      ],
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 30,
+      "name": "Monitor 24'' IPS Full HD",
+      "brand": "LG",
+      "price": 360000,
+      "stock": 9,
+      "category": "monitores",
+      "description": "Monitor ideal para trabajo y estudio.",
+      "features": [
+        "IPS",
+        "75Hz",
+        "Full HD"
+      ],
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 31,
+      "name": "Router Gaming AX5400",
+      "brand": "ASUS",
+      "price": 420000,
+      "stock": 5,
+      "category": "redes",
+      "description": "Router de alto rendimiento para gaming.",
+      "features": [
+        "WiFi 6",
+        "QoS",
+        "Gaming Mode"
+      ],
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 32,
+      "name": "UPS 1200VA",
+      "brand": "APC",
+      "price": 310000,
+      "stock": 6,
+      "category": "energia",
+      "description": "Protección eléctrica para equipos sensibles.",
+      "features": [
+        "1200VA",
+        "Protección picos",
+        "Batería interna"
+      ],
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 33,
+      "name": "Regleta Protectora 6 Tomas",
+      "brand": "Forza",
+      "price": 45000,
+      "stock": 30,
+      "category": "energia",
+      "description": "Protección contra sobrecargas eléctricas.",
+      "features": [
+        "6 tomas",
+        "Protección picos",
+        "Interruptor"
+      ],
+      "rating": 4.4,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 34,
+      "name": "Notebook Chromebook",
+      "brand": "Acer",
+      "price": 420000,
+      "stock": 7,
+      "category": "computacion",
+      "description": "Notebook liviana para tareas básicas.",
+      "features": [
+        "ChromeOS",
+        "SSD",
+        "Liviana"
+      ],
+      "rating": 4.3,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 35,
+      "name": "Mini PC Ryzen 7",
+      "brand": "Beelink",
+      "price": 980000,
+      "stock": 4,
+      "category": "computacion",
+      "description": "PC compacta de alto rendimiento.",
+      "features": [
+        "Ryzen 7",
+        "32GB RAM",
+        "SSD NVMe"
+      ],
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 36,
+      "name": "Control Remoto Universal",
+      "brand": "Philips",
+      "price": 38000,
+      "stock": 25,
+      "category": "accesorios",
+      "description": "Control compatible con múltiples dispositivos.",
+      "features": [
+        "Universal",
+        "Fácil configuración",
+        "IR"
+      ],
+      "rating": 4.2,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 37,
+      "name": "Soporte TV Articulado",
+      "brand": "Nisuta",
+      "price": 65000,
+      "stock": 16,
+      "category": "tv",
+      "description": "Soporte de pared para TV ajustable.",
+      "features": [
+        "Articulado",
+        "VESA",
+        "Fácil instalación"
+      ],
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 38,
+      "name": "Repetidor WiFi Dual Band",
+      "brand": "TP-Link",
+      "price": 82000,
+      "stock": 18,
+      "category": "redes",
+      "description": "Extiende la señal WiFi en el hogar.",
+      "features": [
+        "Dual Band",
+        "WPS",
+        "Compacto"
+      ],
+      "rating": 4.4,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 39,
+      "name": "Estabilizador de Voltaje",
+      "brand": "Lyonn",
+      "price": 98000,
+      "stock": 12,
+      "category": "energia",
+      "description": "Protege equipos ante variaciones eléctricas.",
+      "features": [
+        "1000VA",
+        "Protección",
+        "Automático"
+      ],
+      "rating": 4.3,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 40,
+      "name": "Soporte Notebook Refrigerado",
+      "brand": "Trust",
+      "price": 72000,
+      "stock": 17,
+      "category": "accesorios",
+      "description": "Base con ventilación para notebooks.",
+      "features": [
+        "Ventiladores",
+        "USB",
+        "Ajustable"
+      ],
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 41,
+      "name": "PlayStation 5",
+      "brand": "Sony",
+      "price": 1350000,
+      "stock": 4,
+      "category": "gaming",
+      "rating": 4.9
+    },
+    {
+      "id": 42,
+      "name": "Xbox Series X",
+      "brand": "Microsoft",
+      "price": 1300000,
+      "stock": 3,
+      "category": "gaming",
+      "rating": 4.8
+    },
+    {
+      "id": 43,
+      "name": "Joystick DualSense",
+      "brand": "Sony",
+      "price": 180000,
+      "stock": 15,
+      "category": "gaming",
+      "rating": 4.7
+    },
+    {
+      "id": 44,
+      "name": "Joystick Xbox Series",
+      "brand": "Microsoft",
+      "price": 175000,
+      "stock": 12,
+      "category": "gaming",
+      "rating": 4.6
+    },
+    {
+      "id": 45,
+      "name": "Tablet Galaxy Tab S8",
+      "brand": "Samsung",
+      "price": 980000,
+      "stock": 6,
+      "category": "computacion",
+      "rating": 4.7
+    },
+    {
+      "id": 46,
+      "name": "iPad 10th Gen",
+      "brand": "Apple",
+      "price": 1050000,
+      "stock": 5,
+      "category": "computacion",
+      "rating": 4.8
+    },
+    {
+      "id": 47,
+      "name": "Tablet Redmi Pad",
+      "brand": "Xiaomi",
+      "price": 520000,
+      "stock": 9,
+      "category": "computacion",
+      "rating": 4.5
+    },
+    {
+      "id": 48,
+      "name": "Smartwatch Galaxy Watch 6",
+      "brand": "Samsung",
+      "price": 420000,
+      "stock": 10,
+      "category": "accesorios",
+      "rating": 4.6
+    },
+    {
+      "id": 49,
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "price": 650000,
+      "stock": 7,
+      "category": "accesorios",
+      "rating": 4.8
+    },
+    {
+      "id": 50,
+      "name": "Smartband Mi Band 8",
+      "brand": "Xiaomi",
+      "price": 85000,
+      "stock": 25,
+      "category": "accesorios",
+      "rating": 4.4
+    },
+    {
+      "id": 51,
+      "name": "Cámara Web Full HD",
+      "brand": "Logitech",
+      "price": 110000,
+      "stock": 18,
+      "category": "perifericos",
+      "rating": 4.6
+    },
+    {
+      "id": 52,
+      "name": "Micrófono USB QuadCast",
+      "brand": "HyperX",
+      "price": 240000,
+      "stock": 6,
+      "category": "audio",
+      "rating": 4.8
+    },
+    {
+      "id": 53,
+      "name": "Barra de Sonido 2.1",
+      "brand": "Samsung",
+      "price": 380000,
+      "stock": 8,
+      "category": "audio",
+      "rating": 4.5
+    },
+    {
+      "id": 54,
+      "name": "Impresora Multifunción WiFi",
+      "brand": "HP",
+      "price": 420000,
+      "stock": 7,
+      "category": "computacion",
+      "rating": 4.4
+    },
+    {
+      "id": 55,
+      "name": "Escáner Portátil",
+      "brand": "Canon",
+      "price": 310000,
+      "stock": 5,
+      "category": "computacion",
+      "rating": 4.3
+    },
+    {
+      "id": 56,
+      "name": "Router Mesh WiFi",
+      "brand": "TP-Link",
+      "price": 460000,
+      "stock": 6,
+      "category": "redes",
+      "rating": 4.6
+    },
+    {
+      "id": 57,
+      "name": "Extensor WiFi",
+      "brand": "Mercusys",
+      "price": 65000,
+      "stock": 20,
+      "category": "redes",
+      "rating": 4.3
+    },
+    {
+      "id": 58,
+      "name": "Teclado Inalámbrico Slim",
+      "brand": "Logitech",
+      "price": 95000,
+      "stock": 14,
+      "category": "perifericos",
+      "rating": 4.5
+    },
+    {
+      "id": 59,
+      "name": "Mouse Inalámbrico",
+      "brand": "Microsoft",
+      "price": 75000,
+      "stock": 19,
+      "category": "perifericos",
+      "rating": 4.4
+    },
+    {
+      "id": 60,
+      "name": "Gabinete Gamer RGB",
+      "brand": "Thermaltake",
+      "price": 260000,
+      "stock": 8,
+      "category": "hardware",
+      "rating": 4.6
+    },
+    {
+      "id": 61,
+      "name": "Cooler CPU Hyper 212",
+      "brand": "Cooler Master",
+      "price": 125000,
+      "stock": 11,
+      "category": "hardware",
+      "rating": 4.7
+    },
+    {
+      "id": 62,
+      "name": "Memoria RAM 16GB DDR4",
+      "brand": "Kingston",
+      "price": 135000,
+      "stock": 20,
+      "category": "hardware",
+      "rating": 4.8
+    },
+    {
+      "id": 63,
+      "name": "Memoria RAM 32GB DDR5",
+      "brand": "Corsair",
+      "price": 280000,
+      "stock": 9,
+      "category": "hardware",
+      "rating": 4.7
+    },
+    {
+      "id": 64,
+      "name": "Disco SSD 500GB SATA",
+      "brand": "WD",
+      "price": 120000,
+      "stock": 17,
+      "category": "almacenamiento",
+      "rating": 4.6
+    },
+    {
+      "id": 65,
+      "name": "Pendrive 128GB",
+      "brand": "SanDisk",
+      "price": 45000,
+      "stock": 30,
+      "category": "almacenamiento",
+      "rating": 4.5
+    },
+    {
+      "id": 66,
+      "name": "Soporte Monitor Ajustable",
+      "brand": "Noga",
+      "price": 78000,
+      "stock": 13,
+      "category": "accesorios",
+      "rating": 4.4
+    },
+    {
+      "id": 67,
+      "name": "Hub USB-C 7 en 1",
+      "brand": "Baseus",
+      "price": 98000,
+      "stock": 16,
+      "category": "accesorios",
+      "rating": 4.6
+    },
+    {
+      "id": 68,
+      "name": "Notebook Gamer RTX 4060",
+      "brand": "ASUS",
+      "price": 1950000,
+      "stock": 3,
+      "category": "computacion",
+      "rating": 4.9
+    },
+    {
+      "id": 69,
+      "name": "Notebook Ultrabook i5",
+      "brand": "Dell",
+      "price": 1250000,
+      "stock": 6,
+      "category": "computacion",
+      "rating": 4.6
+    },
+    {
+      "id": 70,
+      "name": "Celular Moto G84",
+      "brand": "Motorola",
+      "price": 520000,
+      "stock": 10,
+      "category": "telefonia",
+      "rating": 4.5
+    },
+    {
+      "id": 71,
+      "name": "Celular Redmi Note 13",
+      "brand": "Xiaomi",
+      "price": 480000,
+      "stock": 12,
+      "category": "telefonia",
+      "rating": 4.6
+    },
+    {
+      "id": 72,
+      "name": "Lentes VR Meta Quest 2",
+      "brand": "Meta",
+      "price": 890000,
+      "stock": 4,
+      "category": "gaming",
+      "rating": 4.7
+    },
+    {
+      "id": 73,
+      "name": "Volante Gamer G29",
+      "brand": "Logitech",
+      "price": 720000,
+      "stock": 3,
+      "category": "gaming",
+      "rating": 4.8
+    },
+    {
+      "id": 74,
+      "name": "TV Box Android 4K",
+      "brand": "Xiaomi",
+      "price": 135000,
+      "stock": 18,
+      "category": "tv",
+      "rating": 4.4
+    },
+    {
+      "id": 75,
+      "name": "Proyector Full HD",
+      "brand": "Epson",
+      "price": 820000,
+      "stock": 4,
+      "category": "tv",
+      "rating": 4.6
+    },
+    {
+      "id": 76,
+      "name": "Cámara de Seguridad WiFi",
+      "brand": "TP-Link",
+      "price": 95000,
+      "stock": 22,
+      "category": "redes",
+      "rating": 4.5
+    },
+    {
+      "id": 77,
+      "name": "Timbre Inteligente",
+      "brand": "EZVIZ",
+      "price": 140000,
+      "stock": 9,
+      "category": "redes",
+      "rating": 4.4
+    },
+    {
+      "id": 78,
+      "name": "Notebook Stand Aluminio",
+      "brand": "UGREEN",
+      "price": 88000,
+      "stock": 15,
+      "category": "accesorios",
+      "rating": 4.6
+    },
+    {
+      "id": 79,
+      "name": "Cargador Inalámbrico",
+      "brand": "Belkin",
+      "price": 99000,
+      "stock": 14,
+      "category": "accesorios",
+      "rating": 4.5
+    },
+    {
+      "id": 80,
+      "name": "Auriculares Gamer RGB",
+      "brand": "Redragon",
+      "price": 120000,
+      "stock": 16,
+      "category": "audio",
+      "rating": 4.4
+    },
+    {
+      "id": 1772396534415,
+      "items": [
+        {
+          "title": "Test",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1772396590191,
+      "items": [
+        {
+          "title": "Test",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

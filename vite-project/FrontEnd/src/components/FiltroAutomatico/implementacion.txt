@@ -1,0 +1,23 @@
+<Filtros
+  filters={[
+    {
+      name: "category",
+      label: "Categoría",
+      options: ["audio", "gaming", "smartphones"]
+    },
+    {
+      name: "brand",
+      label: "Marca",
+      options: ["Sony", "Samsung", "Apple"]
+    },
+    {
+      name: "price",
+      label: "Precio",
+      options: ["Menor a 100k", "100k - 300k", "Mayor a 300k"]
+    }
+  ]}
+  onChange={setvalores}
+/> 
+
+const [valores, setvalores] = useState("")
+ console.log(valores)

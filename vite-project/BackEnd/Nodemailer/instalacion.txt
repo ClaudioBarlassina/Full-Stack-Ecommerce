@@ -1,0 +1,3 @@
+npm i cors dotenv express nodemon (servidor)
+
+npm i express y nodemailer (paquete nodemailer)

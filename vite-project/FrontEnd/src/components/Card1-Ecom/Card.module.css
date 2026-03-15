@@ -1,0 +1,58 @@
+.card {
+  width: 100%;
+  max-width: 280px;
+  display: flex;
+  flex-direction: column;
+ margin: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 15px;
+  background: #3F5EFB;
+background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+
+/* Imagen */
+.imageWrapper {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+.imageWrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Contenido */
+.content {
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  flex-grow: 1;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.price {
+  font-size: 1.05rem;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Footer */
+.footer {
+  padding: 0.75rem;
+}
+
+/* Botón full width (convención) */
+.footer > * {
+  width: 100%;
+}

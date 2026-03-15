@@ -1,0 +1,16 @@
+post a  http://localhost:3000/confirm  
+
+body => a JSON 
+
+{
+  "email": "cliente@test.com",
+  "nombre": "Claudio",
+  "total": 5000,
+  "productos": [
+    {
+      "title": "Anillo",
+      "cantidad": 2,
+      "precio": 2500
+    }
+  ]
+}
