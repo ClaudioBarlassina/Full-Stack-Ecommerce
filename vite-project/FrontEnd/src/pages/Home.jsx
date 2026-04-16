@@ -7,6 +7,7 @@ import Filtros from '../components/FiltroAutomatico/FiltroAut'
 import Paginacion from "../components/PaginacionButon/Paginacion"
 import useStore from '../../store/useStore'
 
+
 export default function Home() {
 
 const [cartOpen, setCartOpen] = useState(false)
