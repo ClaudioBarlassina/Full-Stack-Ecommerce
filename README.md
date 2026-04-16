@@ -1,6 +1,6 @@
 # 🛍️ Full Stack eCommerce Demo
 
-🌎 Language: [English](#english) | [Español](#español)
+🌎 Language: [English](#english) | [Español](#espanol)
 
 ---
 
