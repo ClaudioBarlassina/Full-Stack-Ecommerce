@@ -73,7 +73,7 @@ export default function Checkout({ productos = [], onConfirm , resEmail }) {
 
   try {
 
-    const res = await fetch("http://localhost:3000/email/confirm", {
+    const res = await fetch("https://full-stack-ecommerce-d1a4.onrender.com/email/confirm", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
