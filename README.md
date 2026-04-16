@@ -46,3 +46,41 @@ git clone https://github.com/YOUR-USER/YOUR-REPO.git
 cd YOUR-REPO
 ```
 
+<a name="espanol"></a>
+## 🇪🇸 Español
+
+Full Stack eCommerce Demo es una plataforma eCommerce completa desarrollada con una arquitectura desacoplada entre frontend y backend.
+
+---
+
+### 🚀 Funcionalidades
+
+- Arquitectura desacoplada
+- API REST con Node.js y Express
+- Componentes reutilizables
+- Diseño responsive
+- Filtros y búsqueda en tiempo real
+- Paginación automática
+- Carrito con persistencia
+- Simulación de pagos
+- Envío de correos con Nodemailer
+- Estado global con Zustand
+
+---
+
+### 🛠️ Tecnologías
+
+**Frontend:**  
+React · Vite · Zustand · CSS  
+
+**Backend:**  
+Node.js · Express · Nodemailer  
+
+---
+
+### 📦 Instalación
+
+```bash
+git clone https://github.com/TU-USUARIO/TU-REPO.git
+cd TU-REPO
+```
